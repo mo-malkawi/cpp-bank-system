@@ -25,7 +25,7 @@ Uses a personal utility library `MyLib.h` for string splitting operations.
 
 ## How to Run
 1. Place `MyLib.h` in the same directory as the source file
-2. Compile with any C++ compiler:
+2. Compile with any C++ compiler
 
 ## Technologies
 C++, File Handling (fstream), Structs, Enums, Vectors
