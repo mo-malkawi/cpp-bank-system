@@ -21,7 +21,7 @@ A console-based bank management system built with C++ that supports full client 
 Client data is stored and retrieved from `Clients.txt` using a custom `#//# ` separator between fields.
 
 ## Dependencies
-Uses a personal utility library `MyLib.h` for string splitting operations.
+Uses a personal utility library `MyLib.h` for string splitting operations.[MyLib Repository](https://github.com/mo-malkawi/cpp-utils-library/blob/main/MyLib.h)
 
 ## How to Run
 1. Place `MyLib.h` in the same directory as the source file
