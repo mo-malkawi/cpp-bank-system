@@ -46,8 +46,7 @@ Client data is stored in `Clients.txt` and user data in `Users.txt` using a cust
 
 ## Dependencies
 Uses personal utility library `MyLib.h` .
-[cpp-personal-libraries](https://github.com/mo-malkawi/cpp-personal-libraries/blob/main/MyLib.h)
-
+[[cpp-personal-libraries](https://github.com/mo-malkawi/cpp-personal-libraries/blob/main/MyLib.h)
 ## How to Run
 1. Place `MyLib.h` in the same directory as the source files
 2. Compile with any C++ compiler:
